@@ -1,3 +1,3 @@
 # cuestonario
 
-https://darioher.github.io/cuestonario/preguntas.html
+https://darioher.github.io/cuestonario/intento.html
